@@ -11,3 +11,16 @@ C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\MiCalculadora\obj\Debug\Mi
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\MiCalculadora\bin\Debug\Entidades.pdb
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\franc\Desktop\tp_laboratorio_2-master\Tp1FrancoDelocca\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

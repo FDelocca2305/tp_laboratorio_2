@@ -12,16 +12,16 @@ using Entidades;
 
 namespace MiCalculadora
 {
-    public partial class FormCalculadora : Form
+    public partial class LaCalculadora : Form
     {
-        public FormCalculadora()
+        public LaCalculadora()
         {
             InitializeComponent();
             this.lblResultado.Text = string.Empty;
         }
 
         /// <summary>
-        /// Vacio campos de texto
+        /// Vacia campos de texto
         /// </summary>
         private void Limpiar()
         {
