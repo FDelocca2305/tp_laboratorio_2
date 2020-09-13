@@ -18,6 +18,7 @@ namespace MiCalculadora
         {
             InitializeComponent();
             this.lblResultado.Text = string.Empty;
+            this.cmbOperador.Text = "+";
         }
 
         /// <summary>
