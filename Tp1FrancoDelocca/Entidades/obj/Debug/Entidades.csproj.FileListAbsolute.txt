@@ -4,3 +4,9 @@ C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\Entidades\obj\Debug\Entida
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.dll
 C:\Users\franc\Desktop\Programación\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.pdb
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\bin\Debug\Entidades.dll
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\bin\Debug\Entidades.pdb
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.dll
+C:\Users\franc\Documents\GitHub\tp_laboratorio_2\Tp1FrancoDelocca\Entidades\obj\Debug\Entidades.pdb

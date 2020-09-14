@@ -41,6 +41,7 @@ namespace Entidades
        /// <returns>la cadena parseada a double o 0</returns>
         public double ValidarNumero(string strNumero)
         {
+
             if (double.TryParse(strNumero, out double parser))
             {
                 return parser;
