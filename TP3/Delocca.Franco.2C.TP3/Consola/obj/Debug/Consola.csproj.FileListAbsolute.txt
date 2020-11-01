@@ -1,0 +1,16 @@
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Clases Instanciables.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\ClasesAbstractas.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Consola\obj\Debug\Consola.pdb

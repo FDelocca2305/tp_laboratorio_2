@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\franc\Desktop\Programación\TP3\Delocca.Franco.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
