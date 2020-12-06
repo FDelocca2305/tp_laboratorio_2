@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Excepciones\obj\Debug\Excepciones.pdb

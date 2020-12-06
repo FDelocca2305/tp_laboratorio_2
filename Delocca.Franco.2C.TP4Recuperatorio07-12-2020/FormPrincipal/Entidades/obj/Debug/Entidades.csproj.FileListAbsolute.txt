@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\bin\Debug\Entidades.dll
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.dll
+C:\Users\franc\Desktop\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\bin\Debug\Entidades.dll
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.dll
+C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Entidades\obj\Debug\Entidades.pdb
