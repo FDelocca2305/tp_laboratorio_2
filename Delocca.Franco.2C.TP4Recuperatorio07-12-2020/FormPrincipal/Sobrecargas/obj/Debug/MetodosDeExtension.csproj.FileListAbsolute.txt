@@ -10,3 +10,9 @@ C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Sobrecargas\obj\Debug\MetodosDeExtension.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Sobrecargas\obj\Debug\Sobrecargas.dll
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Sobrecargas\obj\Debug\Sobrecargas.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\bin\Debug\Sobrecargas.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\bin\Debug\Sobrecargas.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\obj\Debug\MetodosDeExtension.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\obj\Debug\MetodosDeExtension.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\obj\Debug\Sobrecargas.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Sobrecargas\obj\Debug\Sobrecargas.pdb

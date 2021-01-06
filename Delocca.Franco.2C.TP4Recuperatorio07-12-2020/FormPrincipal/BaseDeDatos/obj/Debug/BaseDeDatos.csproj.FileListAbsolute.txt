@@ -20,3 +20,14 @@ C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.dll
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

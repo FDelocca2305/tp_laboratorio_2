@@ -20,3 +20,14 @@ C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Archivos\obj\Debug\Archivos.dll
 C:\Users\fabri\Desktop\ProgramacionUTN\Programación\INTENTODETP4\FormPrincipal\Archivos\obj\Debug\Archivos.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Archivos.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Archivos.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Entidades.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Excepciones.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Entidades.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\obj\Debug\Archivos.dll
+C:\Users\franc\Desktop\Programación\tp_laboratorio_2\Delocca.Franco.2C.TP4Recuperatorio07-12-2020\FormPrincipal\Archivos\obj\Debug\Archivos.pdb
